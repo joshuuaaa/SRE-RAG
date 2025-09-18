@@ -2,7 +2,7 @@
 
 **Group 7 - KTU Project**
 
-**Project Guide:** Asst. Prof. Shinoj K Sukumaran
+
 
 ---
 
