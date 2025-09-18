@@ -1,10 +1,6 @@
 # LLM-Driven First Aid Assistant for Disaster Zones
 
 **Group 7 - KTU Project**
-- Amal Ajay A - KTE22EC013
-- Joshwin Binu - KTE22EC038  
-- Judin Joe Mathew - KTE22EC039
-- Justin Varghese - KTE22EC040
 
 **Project Guide:** Asst. Prof. Shinoj K Sukumaran
 
